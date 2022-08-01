@@ -4,7 +4,7 @@ Partitions an image into varying sizes using entropy as a measured threshold.
 
 <h2 align="center"> Usage </h2>
 After downloading the necessary files and libraries running
-` main.py `
+``` main.py ```
 will prompt you to open a local image. In order to partition the image one iteration further, click on the image's thumbnail.
 
 ![](example.png)
